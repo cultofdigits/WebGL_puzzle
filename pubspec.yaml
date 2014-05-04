@@ -1,0 +1,9 @@
+name: puzzle
+description: A sample web application
+homepage: puzzle.html
+dependencies:
+  browser: any
+  crypto: any
+  image: any
+  math: any
+  vector_math: any
